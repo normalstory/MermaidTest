@@ -1,3 +1,7 @@
+Here is a simple flow chart:
+
+```mermaid
+
 graph TD
 
 subgraph NPS
@@ -57,3 +61,5 @@ NPS -->|평가 및 의견| purpose_NPS
 Viral -->|콘텐츠 공유| purpose_Viral
 Referral -->|추천 및 보상| purpose_Referral
 WordOfMouth -->|소문 전파 속도| purpose_WordOfMouth
+
+```
